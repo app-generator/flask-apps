@@ -36,7 +36,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 ## [Flask Reflex](https://appseed.us/apps/flask-apps/flask-reflex-pixelarity)
 
-Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Reflex Pixelarity design.
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Reflex Pixelarity design.
 
 ![Flask Reflex - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-reflex-intro.gif?raw=true)
 
@@ -44,7 +44,7 @@ Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) 
 
 ## [Flask Split Screen](https://appseed.us/apps/flask-apps/flask-split-screen-pixelarity)
 
-Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Split Screen Pixelarity design.
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Split Screen Pixelarity design.
 
 ![Flask Split Screen - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-split-screen-intro.gif?raw=true)
 
@@ -52,7 +52,7 @@ Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) 
 
 ## [Flask Visualize](https://appseed.us/apps/flask-apps/flask-visualize-pixelarity)
 
-Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Visualize Pixelarity design.
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Visualize Pixelarity design.
 
 ![Flask Visualize - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-visualize-intro.gif?raw=true)
 
@@ -60,7 +60,7 @@ Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) 
 
 ## [Flask Prototype](https://appseed.us/apps/flask-apps/flask-prototype-pixelarity)
 
-Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Prototype Pixelarity design.
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Prototype Pixelarity design.
 
 ![Flask Prototype - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-prototype-intro.gif?raw=true)
 
@@ -68,7 +68,7 @@ Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) 
 
 ## [Flask Locus](https://appseed.us/apps/flask-apps/flask-locus-pixelarity)
 
-Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Locus Pixelarity design.
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Locus Pixelarity design.
 
 ![Flask Locus - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-locus-intro.gif?raw=true)
 
@@ -84,7 +84,7 @@ Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) 
 
 ## [Flask Landscape](https://appseed.us/apps/flask-apps/flask-landscape-pixelarity)
 
-Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Landscape Pixelarity design.
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Landscape Pixelarity design.
 
 ![Flask Landscape - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-landscape-intro.gif?raw=true)
 
@@ -92,7 +92,7 @@ Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) 
 
 ## [Flask Inverse](https://appseed.us/apps/flask-apps/flask-inverse-pixelarity)
 
-Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Inverse Pixelarity design.
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Inverse Pixelarity design.
 
 ![Flask Inverse - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-inverse-intro.gif?raw=true)
 
@@ -100,12 +100,21 @@ Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) 
 
 ## [Flask Indivisible](https://appseed.us/apps/flask-apps/flask-indivisible-pixelarity)
 
-Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Indivisible Pixelarity design.
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Indivisible Pixelarity design.
 
 ![Flask Indivisible - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-indivisible-intro.gif?raw=true)
 
 <br />
 
+## [Flask Hyperbolic](https://appseed.us/apps/flask-apps/flask-hyperbolic-pixelarity)
+
+**Commercial** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Hyperbolic Pixelarity design.
+
+<br />
+
+![Flask Hyperbolic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-hyperbolic-intro.gif?raw=true)
+
+<br />
 
 --- 
 [Flask Apps](https://appseed.us/apps/flask-apps) provided by **AppSeed**
