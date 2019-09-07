@@ -34,7 +34,7 @@ Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQL
 
 <br />
 
-# [Flask Argon Design](https://flask-argon-design-system.appseed.us/)
+## [Flask Argon Design](https://flask-argon-design-system.appseed.us/)
 
 Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Argon Design Design** by Creative-Tim.
 
