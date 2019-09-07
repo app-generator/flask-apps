@@ -10,6 +10,38 @@ Flask is a lightweight WSGI web application framework. It is designed to make ge
 
 <br />
 
+## [Flask Paper Kit](https://flask-paper-kit.appseed.us/)
+
+Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Paper Kit Design** by Creative-Tim.
+
+![Flask Paper Kit - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-intro.gif)
+
+<br />
+
+## [Flask Now UI Kit](https://flask-now-ui-kit.appseed.us/)
+
+Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Now UI Kit Design** by Creative-Tim.
+
+![Flask Now UI Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-now-ui-kit-intro.gif?raw=true)
+
+<br />
+
+## [Flask Material Kit](https://flask-material-kit.appseed.us/)
+
+Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Material Kit Design** by Creative-Tim.
+
+![Flask Material Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-material-kit-intro.gif?raw=true)
+
+<br />
+
+# [Flask Argon Design](https://flask-argon-design-system.appseed.us/)
+
+Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Argon Design Design** by Creative-Tim.
+
+![Flask Argon Design - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-argon-design-system-intro.gif?raw=true)
+
+<br />
+
 ## [Flask Phantom](https://appseed.us/apps/flask-apps/html5up-phantom-coded-in-flask)
 
 Open-Source app with **HTML5Up Phantom** design: [demo](https://flask-phantom.appseed.us/), [sources](https://github.com/app-generator/flask-phantom)
