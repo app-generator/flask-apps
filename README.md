@@ -42,23 +42,7 @@ Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQL
 
 <br />
 
-## [Flask Phantom](https://appseed.us/apps/flask-apps/html5up-phantom-coded-in-flask) - [CCA 30 License](https://html5up.net/license)
-
-Open-Source app with **HTML5Up Phantom** design: [demo](https://flask-phantom.appseed.us/), [sources](https://github.com/app-generator/flask-phantom)
-
-![Phantom design coded in Flask](https://github.com/app-generator/flask-phantom/blob/master/screenshots/flask-phantom-intro.gif)
-
-<br />
-
-## [Flask Solid-State](https://appseed.us/apps/flask-apps/flask-solid-state) - [CCA 30 License](https://html5up.net/license)
-
-Open-Source app with **HTML5Up Phantom** design: [demo](https://flask-solid-state.appseed.us/), [sources](https://github.com/app-generator/flask-solid-state)
-
-![Flask Solid-State - Gif animated intro.](https://github.com/app-generator/flask-solid-state/blob/master/screenshots/flask-solid-state-intro.gif)
-
-<br />
-
-## [Bulma CSS - FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css) - MIT License
+## [Bulma CSS - FlaskPlay](https://flask-bulma-css.appseed.us/) - MIT License
 
 Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appseed.us/), [sources](https://github.com/app-generator/flask-bulma-css)
 
@@ -66,7 +50,23 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Transit](https://appseed.us/apps/flask-apps/flask-transit-pixelarity)
+## [Flask Phantom](https://flask-phantom.appseed.us/) - [CCA 30 License](https://html5up.net/license)
+
+Open-Source app with **HTML5Up Phantom** design: [demo](https://flask-phantom.appseed.us/), [sources](https://github.com/app-generator/flask-phantom)
+
+![Phantom design coded in Flask](https://github.com/app-generator/flask-phantom/blob/master/screenshots/flask-phantom-intro.gif)
+
+<br />
+
+## [Flask Solid-State](https://flask-solid-state.appseed.us/) - [CCA 30 License](https://html5up.net/license)
+
+Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-state.appseed.us/), [sources](https://github.com/app-generator/flask-solid-state)
+
+![Flask Solid-State - Gif animated intro.](https://github.com/app-generator/flask-solid-state/blob/master/screenshots/flask-solid-state-intro.gif)
+
+<br />
+
+## [Flask Transit](https://flask-transit.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Transit Pixelarity design.
 
@@ -74,7 +74,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Standout](https://appseed.us/apps/flask-apps/flask-standout-pixelarity)
+## [Flask Standout](https://flask-standout.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Standout Pixelarity design.
 
@@ -82,7 +82,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Magnetic](https://appseed.us/apps/flask-apps/flask-magnetic-pixelarity)
+## [Flask Magnetic](https://flask-magnetic.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Magnetic Pixelarity design.
 
@@ -90,7 +90,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Atmosphere](https://appseed.us/apps/flask-apps/flask-atmosphere-pixelarity)
+## [Flask Atmosphere](https://flask-atmosphere.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Atmosphere Pixelarity design.
 
@@ -98,7 +98,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Elemental](https://appseed.us/apps/flask-apps/flask-elemental-pixelarity)
+## [Flask Elemental](https://flask-elemental.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Elemental Pixelarity design.
 
@@ -106,7 +106,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Reflex](https://appseed.us/apps/flask-apps/flask-reflex-pixelarity)
+## [Flask Reflex](https://flask-reflex.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Reflex Pixelarity design.
 
@@ -114,7 +114,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Split Screen](https://appseed.us/apps/flask-apps/flask-split-screen-pixelarity)
+## [Flask Split Screen](https://flask-split-screen.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Split Screen Pixelarity design.
 
@@ -122,7 +122,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Visualize](https://appseed.us/apps/flask-apps/flask-visualize-pixelarity)
+## [Flask Visualize](https://flask-visualize.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Visualize Pixelarity design.
 
@@ -130,7 +130,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Prototype](https://appseed.us/apps/flask-apps/flask-prototype-pixelarity)
+## [Flask Prototype](https://flask-prototype.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Prototype Pixelarity design.
 
@@ -138,7 +138,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Locus](https://appseed.us/apps/flask-apps/flask-locus-pixelarity)
+## [Flask Locus](https://flask-locus.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Locus Pixelarity design.
 
@@ -146,7 +146,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Relativity](https://appseed.us/apps/flask-apps/flask-relativity-pixelarity)
+## [Flask Relativity](https://flask-relativity.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Relativity Pixelarity design.
 
@@ -154,7 +154,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Landscape](https://appseed.us/apps/flask-apps/flask-landscape-pixelarity)
+## [Flask Landscape](https://flask-landscape.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Landscape Pixelarity design.
 
@@ -162,7 +162,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Inverse](https://appseed.us/apps/flask-apps/flask-inverse-pixelarity)
+## [Flask Inverse](https://flask-inverse.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Inverse Pixelarity design.
 
@@ -170,7 +170,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Indivisible](https://appseed.us/apps/flask-apps/flask-indivisible-pixelarity)
+## [Flask Indivisible](https://flask-indivisible.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Indivisible Pixelarity design.
 
@@ -178,7 +178,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 <br />
 
-## [Flask Hyperbolic](https://appseed.us/apps/flask-apps/flask-hyperbolic-pixelarity)
+## [Flask Hyperbolic](https://flask-hyperbolic.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Hyperbolic Pixelarity design.
 
