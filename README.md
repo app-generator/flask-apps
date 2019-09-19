@@ -70,6 +70,30 @@ Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-
 
 <br />
 
+## [Flask Telemetry](https://flask-telemetry.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Telemetry Pixelarity design.
+
+![Flask Telemetry - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-telemetry-intro.gif?raw=true)
+
+<br />
+
+## [Flask Eventually](https://flask-eventually.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Eventually Pixelarity design.
+
+![Flask Eventually - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-eventually-intro.gif?raw=true)
+
+<br />
+
+## [Flask Exponent](https://flask-exponent.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Exponent Pixelarity design.
+
+![Flask Exponent - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-exponent-intro.gif?raw=true)
+
+<br />
+
 ## [Flask Paradigm](https://flask-paradigm.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Paradigm Pixelarity design.
