@@ -1,6 +1,6 @@
 # [Flask Apps](https://appseed.us/apps/flask-apps) 
 
-Open-Source fully-coded apps (free & commercial) built with automation tools by **AppSeed App Generator**
+Open-Source fully-coded apps (free & commercial) built with automation tools by **AppSeed [App Generator](https://appseed.us/app-generator)**
 
 <br />
 
@@ -241,4 +241,4 @@ Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-
 <br />
 
 --- 
-[Flask Apps](https://appseed.us/apps/flask-apps) (free & commercial) provided by **AppSeed App Generator**
+[Flask Apps](https://appseed.us/apps/flask-apps) (free & commercial) provided by **AppSeed [App Generator](https://appseed.us/app-generator)**
