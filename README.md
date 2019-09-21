@@ -70,6 +70,30 @@ Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-
 
 <br />
 
+## [Flask Lens](https://flask-lens.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Lens Pixelarity design.
+
+![Flask Lens - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-lens-intro.gif?raw=true)
+
+<br />
+
+## [Flask Optics](https://flask-optics.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Optics Pixelarity design.
+
+![Flask Optics - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-optics-intro.gif?raw=true)
+
+<br />
+
+## [Flask Hologram](https://flask-hologram.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Hologram Pixelarity design.
+
+![Flask Hologram - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-hologram-intro.gif?raw=true)
+
+<br />
+
 ## [Flask Telemetry](https://flask-telemetry.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Telemetry Pixelarity design.
