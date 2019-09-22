@@ -70,6 +70,46 @@ Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-
 
 <br />
 
+## [Flask Story](https://flask-story.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Story Pixelarity design.
+
+![Flask Story - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-story-intro.gif?raw=true)
+
+<br />
+
+## [Flask Construct](https://flask-construct.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Construct Pixelarity design.
+
+![Flask Construct - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-construct-intro.gif?raw=true)
+
+<br />
+
+## [Flask Iconic](https://flask-iconic.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Iconic Pixelarity design.
+
+![Flask Iconic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-iconic-intro.gif?raw=true)
+
+<br />
+
+## [Flask Drift](https://flask-drift.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Drift Pixelarity design.
+
+![Flask Drift - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-drift-intro.gif?raw=true)
+
+<br />
+
+## [Flask Gravity](https://flask-lens.appseed.us/) - Commercial
+
+**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Gravity Pixelarity design.
+
+![Flask Gravity - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-gravity-intro.gif?raw=true)
+
+<br />
+
 ## [Flask Lens](https://flask-lens.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Lens Pixelarity design.
