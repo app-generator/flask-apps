@@ -102,7 +102,7 @@ Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-
 
 <br />
 
-## [Flask Gravity](https://flask-lens.appseed.us/) - Commercial
+## [Flask Gravity](https://flask-gravity.appseed.us/) - Commercial
 
 **Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Gravity Pixelarity design.
 
