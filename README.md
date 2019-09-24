@@ -70,237 +70,57 @@ Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-
 
 <br />
 
-## [Flask Story](https://flask-story.appseed.us/) - Commercial
+## [Flask Html5Up Multiverse](https://flask-html5up-multiverse.appseed.us/) - Commercial
 
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Story Pixelarity design.
+WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
+All Links: [demo](https://flask-html5up-multiverse.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-multiverse)
 
-![Flask Story - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-story-intro.gif?raw=true)
-
-<br />
-
-## [Flask Construct](https://flask-construct.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Construct Pixelarity design.
-
-![Flask Construct - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-construct-intro.gif?raw=true)
+![Flask Html5Up Multiverse - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-multiverse-intro.gif)
 
 <br />
 
-## [Flask Iconic](https://flask-iconic.appseed.us/) - Commercial
+## [Flask Html5Up Ethereal](https://flask-html5up-ethereal.appseed.us/) - Commercial
 
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Iconic Pixelarity design.
+WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
+All Links: [demo](https://flask-html5up-ethereal.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-ethereal)
 
-![Flask Iconic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-iconic-intro.gif?raw=true)
-
-<br />
-
-## [Flask Drift](https://flask-drift.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Drift Pixelarity design.
-
-![Flask Drift - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-drift-intro.gif?raw=true)
+![Flask Html5Up Ethereal - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-ethereal-intro.gif)
 
 <br />
 
-## [Flask Gravity](https://flask-gravity.appseed.us/) - Commercial
+## [Flask Html5Up Paradigm](https://flask-html5up-paradigm.appseed.us/) - Commercial
 
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Gravity Pixelarity design.
+WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
+All Links: [demo](https://flask-html5up-paradigm.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-paradigm)
 
-![Flask Gravity - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-gravity-intro.gif?raw=true)
-
-<br />
-
-## [Flask Lens](https://flask-lens.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Lens Pixelarity design.
-
-![Flask Lens - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-lens-intro.gif?raw=true)
+![Flask Html5Up Paradigm - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-paradigm-intro.gif)
 
 <br />
 
-## [Flask Optics](https://flask-optics.appseed.us/) - Commercial
+## [Flask Html5Up Alpha](https://flask-html5up-alpha.appseed.us/) - Commercial
 
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Optics Pixelarity design.
+WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
+All Links: [demo](https://flask-html5up-alpha.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-alpha)
 
-![Flask Optics - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-optics-intro.gif?raw=true)
-
-<br />
-
-## [Flask Hologram](https://flask-hologram.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Hologram Pixelarity design.
-
-![Flask Hologram - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-hologram-intro.gif?raw=true)
+![Flask Html5Up Alpha - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-alpha-intro.gif)
 
 <br />
 
-## [Flask Telemetry](https://flask-telemetry.appseed.us/) - Commercial
+## [Flask Html5Up Eventually](https://flask-html5up-eventually.appseed.us/) - Commercial
 
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Telemetry Pixelarity design.
+WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
+All Links: [demo](https://flask-html5up-eventually.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-eventually)
 
-![Flask Telemetry - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-telemetry-intro.gif?raw=true)
-
-<br />
-
-## [Flask Eventually](https://flask-eventually.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Eventually Pixelarity design.
-
-![Flask Eventually - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-eventually-intro.gif?raw=true)
+![Flask Html5Up Eventually - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-eventually-intro.gif)
 
 <br />
 
-## [Flask Exponent](https://flask-exponent.appseed.us/) - Commercial
+## [Flask Html5Up Lens](https://flask-html5up-lens.appseed.us/) - Commercial
 
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Exponent Pixelarity design.
+WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
+All Links: [demo](https://flask-html5up-lens.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-lens)
 
-![Flask Exponent - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-exponent-intro.gif?raw=true)
-
-<br />
-
-## [Flask Paradigm](https://flask-paradigm.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Paradigm Pixelarity design.
-
-![Flask Paradigm - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-paradigm-intro.gif?raw=true)
-
-<br />
-
-## [Flask Hypothesis](https://flask-hypothesis.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Hypothesis Pixelarity design.
-
-![Flask Hypothesis - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-hypothesis-intro.gif?raw=true)
-
-<br />
-
-## [Flask Alpha](https://flask-alpha.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Alpha Pixelarity design.
-
-![Flask Alpha - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-alpha-intro.gif?raw=true)
-
-<br />
-
-## [Flask Transit](https://flask-transit.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Transit Pixelarity design.
-
-![Flask Transit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-transit-intro.gif?raw=true)
-
-<br />
-
-## [Flask Standout](https://flask-standout.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Standout Pixelarity design.
-
-![Flask Standout - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-standout-intro.gif?raw=true)
-
-<br />
-
-## [Flask Magnetic](https://flask-magnetic.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Magnetic Pixelarity design.
-
-![Flask Magnetic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-magnetic-intro.gif?raw=true)
-
-<br />
-
-## [Flask Atmosphere](https://flask-atmosphere.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Atmosphere Pixelarity design.
-
-![Flask Atmosphere - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-atmosphere-intro.gif?raw=true)
-
-<br />
-
-## [Flask Elemental](https://flask-elemental.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Elemental Pixelarity design.
-
-![Flask Elemental - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-elemental-intro.gif?raw=true)
-
-<br />
-
-## [Flask Reflex](https://flask-reflex.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Reflex Pixelarity design.
-
-![Flask Reflex - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-reflex-intro.gif?raw=true)
-
-<br />
-
-## [Flask Split Screen](https://flask-split-screen.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Split Screen Pixelarity design.
-
-![Flask Split Screen - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-split-screen-intro.gif?raw=true)
-
-<br />
-
-## [Flask Visualize](https://flask-visualize.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Visualize Pixelarity design.
-
-![Flask Visualize - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-visualize-intro.gif?raw=true)
-
-<br />
-
-## [Flask Prototype](https://flask-prototype.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Prototype Pixelarity design.
-
-![Flask Prototype - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-prototype-intro.gif?raw=true)
-
-<br />
-
-## [Flask Locus](https://flask-locus.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Locus Pixelarity design.
-
-![Flask Locus - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-locus-intro.gif?raw=true)
-
-<br />
-
-## [Flask Relativity](https://flask-relativity.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Relativity Pixelarity design.
-
-![Flask Relativity - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-relativity-intro.gif?raw=true)
-
-<br />
-
-## [Flask Landscape](https://flask-landscape.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Landscape Pixelarity design.
-
-![Flask Landscape - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-landscape-intro.gif?raw=true)
-
-<br />
-
-## [Flask Inverse](https://flask-inverse.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Inverse Pixelarity design.
-
-![Flask Inverse - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-inverse-intro.gif?raw=true)
-
-<br />
-
-## [Flask Indivisible](https://flask-indivisible.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Indivisible Pixelarity design.
-
-![Flask Indivisible - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-indivisible-intro.gif?raw=true)
-
-<br />
-
-## [Flask Hyperbolic](https://flask-hyperbolic.appseed.us/) - Commercial
-
-**Commercial License** - Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) pattern on top of Hyperbolic Pixelarity design.
-
-<br />
-
-![Flask Hyperbolic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-hyperbolic-intro.gif?raw=true)
+![Flask Html5Up Lens - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-lens-intro.gif)
 
 <br />
 
