@@ -73,7 +73,8 @@ Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-
 ## [Flask Html5Up Multiverse](https://flask-html5up-multiverse.appseed.us/) - Commercial
 
 WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
-All Links: [demo](https://flask-html5up-multiverse.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-multiverse)
+
+App Links: [demo](https://flask-html5up-multiverse.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-multiverse)
 
 ![Flask Html5Up Multiverse - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-multiverse-intro.gif)
 
@@ -82,7 +83,8 @@ All Links: [demo](https://flask-html5up-multiverse.appseed.us/), [sources](https
 ## [Flask Html5Up Ethereal](https://flask-html5up-ethereal.appseed.us/) - Commercial
 
 WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
-All Links: [demo](https://flask-html5up-ethereal.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-ethereal)
+
+App Links: [demo](https://flask-html5up-ethereal.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-ethereal)
 
 ![Flask Html5Up Ethereal - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-ethereal-intro.gif)
 
@@ -91,7 +93,8 @@ All Links: [demo](https://flask-html5up-ethereal.appseed.us/), [sources](https:/
 ## [Flask Html5Up Paradigm](https://flask-html5up-paradigm.appseed.us/) - Commercial
 
 WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
-All Links: [demo](https://flask-html5up-paradigm.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-paradigm)
+
+App Links: [demo](https://flask-html5up-paradigm.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-paradigm)
 
 ![Flask Html5Up Paradigm - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-paradigm-intro.gif)
 
@@ -100,7 +103,8 @@ All Links: [demo](https://flask-html5up-paradigm.appseed.us/), [sources](https:/
 ## [Flask Html5Up Alpha](https://flask-html5up-alpha.appseed.us/) - Commercial
 
 WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
-All Links: [demo](https://flask-html5up-alpha.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-alpha)
+
+App Links: [demo](https://flask-html5up-alpha.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-alpha)
 
 ![Flask Html5Up Alpha - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-alpha-intro.gif)
 
@@ -109,7 +113,8 @@ All Links: [demo](https://flask-html5up-alpha.appseed.us/), [sources](https://gi
 ## [Flask Html5Up Eventually](https://flask-html5up-eventually.appseed.us/) - Commercial
 
 WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
-All Links: [demo](https://flask-html5up-eventually.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-eventually)
+
+App Links: [demo](https://flask-html5up-eventually.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-eventually)
 
 ![Flask Html5Up Eventually - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-eventually-intro.gif)
 
@@ -118,7 +123,8 @@ All Links: [demo](https://flask-html5up-eventually.appseed.us/), [sources](https
 ## [Flask Html5Up Lens](https://flask-html5up-lens.appseed.us/) - Commercial
 
 WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentication (login, register), SQLite database, SQLAlchemy ORM, helpers and basic tooling (static export, LIVE deploy).
-All Links: [demo](https://flask-html5up-lens.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-lens)
+
+App Links: [demo](https://flask-html5up-lens.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-lens)
 
 ![Flask Html5Up Lens - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-lens-intro.gif)
 
