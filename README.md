@@ -1,4 +1,4 @@
-# [Flask Apps](https://appseed.us/apps/flask-apps) 
+# [Flask Apps](https://appseed.us/apps/flask-apps/) 
 
 Open-Source fully-coded apps (free & commercial) built with automation tools by **[AppSeed App Generator](https://appseed.us/app-generator)**
 
