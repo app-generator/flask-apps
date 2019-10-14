@@ -10,31 +10,31 @@ Flask is a lightweight WSGI web application framework. It is designed to make ge
 
 <br />
 
-## [Flask Paper Kit](https://flask-paper-kit.appseed.us/) - MIT License
+## [Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit) - MIT License
 
 Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Paper Kit Design** by Creative-Tim.
 
-App links: [demo](https://flask-paper-kit.appseed.us/), [sources](https://github.com/app-generator/flask-paper-kit)
+App links: [demo](https://flask-paper-kit.appseed.us/), [sources](https://github.com/app-generator/flask-paper-kit), [product info](https://appseed.us/apps/flask-apps/flask-paper-kit)
 
 ![Flask Paper Kit - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-intro.gif)
 
 <br />
 
-## [Flask Now UI Kit](https://flask-now-ui-kit.appseed.us/) - MIT License
+## [Flask Now UI Kit](https://appseed.us/apps/flask-apps/flask-now-ui-kit) - MIT License
 
 Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Now UI Kit Design** by Creative-Tim.
 
-App links: [demo](https://flask-now-ui-kit.appseed.us/), [sources](https://github.com/app-generator/flask-now-ui-kit)
+App links: [demo](https://flask-now-ui-kit.appseed.us/), [sources](https://github.com/app-generator/flask-now-ui-kit), [product info](https://appseed.us/apps/flask-apps/flask-now-ui-kit)
 
 ![Flask Now UI Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-now-ui-kit-intro.gif?raw=true)
 
 <br />
 
-## [Flask Material Kit](https://flask-material-kit.appseed.us/) - MIT License
+## [Flask Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) - MIT License
 
 Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Material Kit Design** by Creative-Tim.
 
-App links: [demo](https://flask-material-kit.appseed.us/), [sources](https://github.com/app-generator/flask-material-kit)
+App links: [demo](https://flask-material-kit.appseed.us/), [sources](https://github.com/app-generator/flask-material-kit), [product info](https://appseed.us/apps/flask-apps/flask-material-kit)
 
 ![Flask Material Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-material-kit-intro.gif?raw=true)
 
