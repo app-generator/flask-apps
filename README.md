@@ -1,18 +1,18 @@
 # [Flask Apps](https://appseed.us/apps/flask-apps/) 
 
-Open-Source fully-coded apps (free & commercial) built with automation tools by **[AppSeed App Generator](https://appseed.us/app-generator)**
+Open-Source web apps built with automation tools, HTML parsing and boilerplated code in [Flask](https://palletsprojects.com/p/flask/)  by **AppSeed**.
 
 <br />
 
 ## What is [Flask](https://palletsprojects.com/p/flask/)
 
-Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.   It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself - read more about it on the [official website](https://palletsprojects.com/p/flask/) or access the docs and start coding.
+[Flask](https://palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself - read more about it on the [Flask official website](https://palletsprojects.com/p/flask/) or access the docs and start coding.
 
 <br />
 
 ## [Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit) - MIT License
 
-Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Paper Kit Design** by Creative-Tim.
+Open-Source [Flask](https://palletsprojects.com/p/flask/) web app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Paper Kit Design** by Creative-Tim.
 
 App links: [demo](https://flask-paper-kit.appseed.us/), [sources](https://github.com/app-generator/flask-paper-kit), [product info](https://appseed.us/apps/flask-apps/flask-paper-kit)
 
@@ -22,7 +22,7 @@ App links: [demo](https://flask-paper-kit.appseed.us/), [sources](https://github
 
 ## [Flask Now UI Kit](https://appseed.us/apps/flask-apps/flask-now-ui-kit) - MIT License
 
-Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Now UI Kit Design** by Creative-Tim.
+Open-Source [Flask](https://palletsprojects.com/p/flask/) web app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Now UI Kit Design** by Creative-Tim.
 
 App links: [demo](https://flask-now-ui-kit.appseed.us/), [sources](https://github.com/app-generator/flask-now-ui-kit), [product info](https://appseed.us/apps/flask-apps/flask-now-ui-kit)
 
@@ -32,7 +32,7 @@ App links: [demo](https://flask-now-ui-kit.appseed.us/), [sources](https://githu
 
 ## [Flask Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) - MIT License
 
-Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Material Kit Design** by Creative-Tim.
+Open-Source [Flask](https://palletsprojects.com/p/flask/) web app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Material Kit Design** by Creative-Tim.
 
 App links: [demo](https://flask-material-kit.appseed.us/), [sources](https://github.com/app-generator/flask-material-kit), [product info](https://appseed.us/apps/flask-apps/flask-material-kit)
 
@@ -42,11 +42,11 @@ App links: [demo](https://flask-material-kit.appseed.us/), [sources](https://git
 
 ## [Flask Argon Design](https://appseed.us/apps/flask-apps/flask-argon-design-system) - MIT License
 
-Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Argon Design Design** by Creative-Tim.
+Open-Source [Flask](https://palletsprojects.com/p/flask/) web app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Argon Design Design** by Creative-Tim.
 
 App links: [demo](https://flask-argon-design-system.appseed.us/), [sources](https://github.com/app-generator/flask-argon-design-system)
 
-![Flask Argon Design - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-argon-design-system-screen.png)
+![Flask Argon Design - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-argon-design-system-screen.png)
 
 <br />
 
@@ -62,7 +62,7 @@ Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appsee
 
 Open-Source app with **HTML5Up Phantom** design: [demo](https://flask-phantom.appseed.us/), [sources](https://github.com/app-generator/flask-phantom)
 
-![Phantom design coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-phantom-screen.png)
+![Flask Phantom - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-phantom-screen.png)
 
 <br />
 
@@ -90,7 +90,7 @@ WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentic
 
 App Links: [demo](https://flask-html5up-ethereal.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-ethereal)
 
-![Flask Html5Up Ethereal - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-ethereal-intro.gif)
+![Flask Html5Up Ethereal - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-ethereal-intro.gif)
 
 <br />
 
@@ -100,7 +100,7 @@ WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentic
 
 App Links: [demo](https://flask-html5up-paradigm.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-paradigm)
 
-![Flask Html5Up Paradigm - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-paradigm-intro.gif)
+![Flask Html5Up Paradigm - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-paradigm-intro.gif)
 
 <br />
 
@@ -110,7 +110,7 @@ WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentic
 
 App Links: [demo](https://flask-html5up-alpha.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-alpha)
 
-![Flask Html5Up Alpha - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-alpha-intro.gif)
+![Flask Html5Up Alpha - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-alpha-intro.gif)
 
 <br />
 
@@ -130,9 +130,9 @@ WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentic
 
 App Links: [demo](https://flask-html5up-lens.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-lens)
 
-![Flask Html5Up Lens - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-lens-intro.gif)
+![Flask Html5Up Lens - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-lens-intro.gif)
 
 <br />
 
 --- 
-[Flask Apps](https://appseed.us/apps/flask-apps) (free & commercial) provided by **[AppSeed App Generator](https://appseed.us/app-generator)**
+[Flask Apps](https://appseed.us/apps/flask-apps) provided by **AppSeed**
