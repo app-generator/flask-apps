@@ -16,7 +16,7 @@ Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQL
 
 App links: [demo](https://flask-paper-kit.appseed.us/), [sources](https://github.com/app-generator/flask-paper-kit), [product info](https://appseed.us/apps/flask-apps/flask-paper-kit)
 
-![Flask Paper Kit - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-intro.gif)
+![Flask Paper Kit - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-screen.png)
 
 <br />
 
@@ -26,7 +26,7 @@ Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQL
 
 App links: [demo](https://flask-now-ui-kit.appseed.us/), [sources](https://github.com/app-generator/flask-now-ui-kit), [product info](https://appseed.us/apps/flask-apps/flask-now-ui-kit)
 
-![Flask Now UI Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-now-ui-kit-intro.gif?raw=true)
+![Flask Now UI Kit - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-now-ui-kit-screen.png)
 
 <br />
 
@@ -36,41 +36,41 @@ Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQL
 
 App links: [demo](https://flask-material-kit.appseed.us/), [sources](https://github.com/app-generator/flask-material-kit), [product info](https://appseed.us/apps/flask-apps/flask-material-kit)
 
-![Flask Material Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-material-kit-intro.gif?raw=true)
+![Flask Material Kit - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-material-kit-screen.png)
 
 <br />
 
-## [Flask Argon Design](https://flask-argon-design-system.appseed.us/) - MIT License
+## [Flask Argon Design](https://appseed.us/apps/flask-apps/flask-argon-design-system) - MIT License
 
 Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Argon Design Design** by Creative-Tim.
 
 App links: [demo](https://flask-argon-design-system.appseed.us/), [sources](https://github.com/app-generator/flask-argon-design-system)
 
-![Flask Argon Design - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-argon-design-system-intro.gif?raw=true)
+![Flask Argon Design - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-argon-design-system-screen.png)
 
 <br />
 
-## [Bulma CSS - FlaskPlay](https://flask-bulma-css.appseed.us/) - MIT License
+## [Bulma CSS - FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css) - MIT License
 
 Open-Source app styled with **Bulma CSS**: [demo](https://flask-bulma-css.appseed.us/), [sources](https://github.com/app-generator/flask-bulma-css)
 
-![Flask Bulma CSS](https://github.com/app-generator/flask-bulma-css/blob/master/screenshots/flask-bulma-css-intro.gif)
+![Flask Bulma CSS - Open-Source Web App coded in Flask.](https://github.com/app-generator/flask-bulma-css/blob/master/screenshots/flask-bulma-css-intro.gif)
 
 <br />
 
-## [Flask Phantom](https://flask-phantom.appseed.us/) - [CCA 30 License](https://html5up.net/license)
+## [Flask Phantom](https://appseed.us/apps/flask-apps/html5up-phantom-coded-in-flask) - [CCA 30 License](https://html5up.net/license)
 
 Open-Source app with **HTML5Up Phantom** design: [demo](https://flask-phantom.appseed.us/), [sources](https://github.com/app-generator/flask-phantom)
 
-![Phantom design coded in Flask](https://github.com/app-generator/flask-phantom/blob/master/screenshots/flask-phantom-intro.gif)
+![Phantom design coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-phantom-screen.png)
 
 <br />
 
-## [Flask Solid-State](https://flask-solid-state.appseed.us/) - [CCA 30 License](https://html5up.net/license)
+## [Flask Solid-State](https://appseed.us/apps/flask-apps/flask-solid-state) - [CCA 30 License](https://html5up.net/license)
 
 Open-Source app with **HTML5Up Solid-State** design: [demo](https://flask-solid-state.appseed.us/), [sources](https://github.com/app-generator/flask-solid-state)
 
-![Flask Solid-State - Gif animated intro.](https://github.com/app-generator/flask-solid-state/blob/master/screenshots/flask-solid-state-intro.gif)
+![Flask Solid-State - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-solid-state-screen.png)
 
 <br />
 
@@ -80,7 +80,7 @@ WebApp generated in [Flask](https://palletsprojects.com/p/flask/) with authentic
 
 App Links: [demo](https://flask-html5up-multiverse.appseed.us/), [sources](https://github.com/app-generator/flask-html5up-multiverse)
 
-![Flask Html5Up Multiverse - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-multiverse-intro.gif)
+![Flask Html5Up Multiverse - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-html5up-multiverse-intro.gif)
 
 <br />
 
