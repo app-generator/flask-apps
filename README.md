@@ -1,6 +1,10 @@
 # [Flask Apps](https://appseed.us/apps/flask-apps/) 
 
-Open-Source web apps built with automation tools, HTML parsing and boilerplated code in [Flask](https://palletsprojects.com/p/flask/)  by **AppSeed**.
+Open-Source web apps built with automation tools, HTML parsing and boilerplated code in [Flask](https://palletsprojects.com/p/flask/) - - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+
+<br />
+
+> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
 
 <br />
 
