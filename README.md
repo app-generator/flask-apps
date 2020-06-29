@@ -11,6 +11,60 @@ Open-Source web apps built with automation tools, HTML parsing and boilerplated 
 
 <br />
 
+## [Flask App - Illustrations by IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign)
+
+> Open-Source Web App generated in Flask by AppSeed [Web App Generator](https://appseed.us/app-generator) - Features:
+
+- Illustrations by [IraDesign](https://iradesign.io/) - a Creative-Tim product
+- UI Kit: **Quick** (Free Version) by **Webpixels**
+- SQLite database, Flask-SQLAlchemy ORM
+- Session-Based auth flow (login, register)
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> Links
+
+- [Flask App - Illustrations by IraDesign](https://flask-illustrations-iradesign.appseed.us) - LIVE Demo
+- [Flask App - Illustrations by IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign) - Product page
+- [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
+- More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
+- [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
+
+<br />
+
+![Flask App IraDesign - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-iradesign/master/media/flask-illustrations-iradesign-screen.png)
+
+<br />
+
+## [Flask App - Illustrations by Webpixels](https://appseed.us/apps/flask-apps/flask-illustrations-webpixels)
+
+> Open-Source Web App generated in Flask by AppSeed [Web App Generator](https://appseed.us/app-generator) - Features:
+
+- UI Kit: **Quick** (Free Version) by **Webpixels**
+- Illustrations by Webpixels
+- SQLite database, Flask-SQLAlchemy ORM
+- Session-Based auth flow (login, register)
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> Links
+
+- [Flask App - Illustrations by Webpixels](https://flask-illustrations-webpixels.appseed.us) - LIVE Demo
+- [Flask App - Illustrations by Webpixels](https://appseed.us/apps/flask-apps/flask-illustrations-webpixels) - Product page
+- [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
+- More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
+- [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
+
+<br />
+
+![Flask App Webpixels - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-webpixels/master/media/flask-illustrations-webpixels-screen.png)
+
+<br />
+
 ## [Flask Neumorphism UI Kit](https://appseed.us/apps/flask-apps/flask-neumorphism-uikit)
 
 > **Open-Source Web App** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
