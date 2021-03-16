@@ -1,4 +1,4 @@
-# [Flask Apps](https://appseed.us/apps/flask-apps/?ref=gh) 
+# [Flask Apps](https://appseed.us/apps/flask-apps) 
 
 Open-Source web apps built with automation tools, HTML parsing and boilerplated code in [Flask](https://palletsprojects.com/p/flask/) - - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
@@ -11,57 +11,33 @@ Open-Source web apps built with automation tools, HTML parsing and boilerplated 
 
 <br />
 
-## [Flask App - Illustrations by IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign)
+## [Soft UI Design System Flask](https://appseed.us/product/flask-soft-ui-design-system)
 
-> Open-Source Web App generated in Flask by AppSeed [Web App Generator](https://appseed.us/app-generator) - Features:
-
-- Illustrations by [IraDesign](https://iradesign.io/) - a Creative-Tim product
-- UI Kit: **Quick** (Free Version) by **Webpixels**
-- SQLite database, Flask-SQLAlchemy ORM
-- Session-Based auth flow (login, register)
-- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
-
-> Links
-
-- [Flask App - Illustrations by IraDesign](https://flask-illustrations-iradesign.appseed.us) - LIVE Demo
-- [Flask App - Illustrations by IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign) - Product page
-- [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
-- More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
-- [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
+**[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)** is a Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL) designed for those who like bold elements and beautiful websites. **Soft UI Design System Flask**  is a simple Flask starter provided by AppSeed with a modular codebase, database, authentication and deployment scripts
 
 <br />
 
-![Flask App IraDesign - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-iradesign/master/media/flask-illustrations-iradesign-screen.png)
+- [Soft UI Design System Flask](https://appseed.us/product/flask-soft-ui-design-system) - product page
+- [Soft UI Design System Flask - Demo](https://flask-soft-ui-free.appseed-srv1.com/) - LIVE Deployment
+- 
+<br />
+
+![Flask Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-soft-ui-free/master/media/flask-soft-ui-free-screen.png)
 
 <br />
 
-## [Flask App - Illustrations by Webpixels](https://appseed.us/apps/flask-apps/flask-illustrations-webpixels)
+## [Flask Pixel UI Kit](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit)
 
-> Open-Source Web App generated in Flask by AppSeed [Web App Generator](https://appseed.us/app-generator) - Features:
-
-- UI Kit: **Quick** (Free Version) by **Webpixels**
-- Illustrations by Webpixels
-- SQLite database, Flask-SQLAlchemy ORM
-- Session-Based auth flow (login, register)
-- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
-
-> Links
-
-- [Flask App - Illustrations by Webpixels](https://flask-illustrations-webpixels.appseed.us) - LIVE Demo
-- [Flask App - Illustrations by Webpixels](https://appseed.us/apps/flask-apps/flask-illustrations-webpixels) - Product page
-- [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
-- More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
-- [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
+Pixel is a free, fully responsive and modern Bootstrap 4 UI Kit that will help you build creative and professional websites. Use our components and sections, switch some Sass variables to build and arrange pages to best suit your needs. Pixel Lite comes with 6 premium example pages that we created to show you the beautiful user interfaces that can be created.
 
 <br />
 
-![Flask App Webpixels - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-webpixels/master/media/flask-illustrations-webpixels-screen.png)
+- [Flask Pixel UI Kit](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - product page
+- [Flask Pixel UI Kit - Demo](https://flask-pixel-lite.appseed-srv1.com//) - LIVE Deployment
+
+<br />
+
+![Flask Pixel UI Kit - Open-Source web app coded in Flask.](https://raw.githubusercontent.com/app-generator/flask-pixel-bootstrap-uikit/master/media/flask-pixel-bootstrap-uikit-screen.png)
 
 <br />
 
@@ -86,30 +62,6 @@ Open-Source web apps built with automation tools, HTML parsing and boilerplated 
 <br />
 
 ![Flask Neumorphism UI Kit - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-neumorphism-uikit/master/media/flask-neumorphism-uikit-screen-2.png)
-
-<br />
-
-## [Flask Pixel UI Kit](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit)
-
-> **Open-Source Web App** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
-
-- UI Kit: **Pixel UI kit** by **Themesberg**
-- UI-Ready, Jinja2 templating
-- SQLite database, Flask-SQLAlchemy ORM
-- Session-Based auth flow (login, register)
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
-
-> Links
-
-- LIVE Demo: [Flask Pixel UI Kit](https://flask-pixel-bootstrap-uikit.appseed.us/)
-- Product Page: [Flask Pixel UI Kit](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit)
-- For more [Flask Apps](https://appseed.us/apps/flask-apps/) access the AppSeed platform.
-
-<br />
-
-![Flask Pixel UI Kit - Open-Source web app coded in Flask.](https://raw.githubusercontent.com/app-generator/flask-pixel-bootstrap-uikit/master/media/flask-pixel-bootstrap-uikit-screen.png)
 
 <br />
 
