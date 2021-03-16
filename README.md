@@ -33,7 +33,7 @@ Pixel is a free, fully responsive and modern Bootstrap 4 UI Kit that will help y
 <br />
 
 - [Flask Pixel UI Kit](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - product page
-- [Flask Pixel UI Kit - Demo](https://flask-pixel-lite.appseed-srv1.com//) - LIVE Deployment
+- [Flask Pixel UI Kit - Demo](https://flask-pixel-lite.appseed-srv1.com/) - LIVE Deployment
 
 <br />
 
