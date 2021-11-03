@@ -1,6 +1,6 @@
 # [Flask Apps](https://appseed.us/apps/flask-apps) 
 
-Open-Source web apps built with automation tools, HTML parsing and boilerplated code in [Flask](https://palletsprojects.com/p/flask/) - - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+Open-Source web apps built with automation tools, HTML parsing and boilerplated code in [Flask](https://palletsprojects.com/p/flask/) - - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
 
 <br />
 
@@ -11,7 +11,7 @@ Open-Source web apps built with automation tools, HTML parsing and boilerplated 
 
 <br />
 
-## Free Sample: [Material Kit 2](https://appseed.us/apps/flask-apps/flask-material-kit)
+## [Flask Material Kit 2](https://appseed.us/apps/flask-apps/flask-material-kit)
 
 Open-Source **Flask** starter coded on top of **Material Kit 2** (free version). For newcomers, Material Kit is a **Free Bootstrap 5 UI Kit** with a fresh, new design inspired by Google's material design. This simple Flask project can be used to code beautiful websites with a modern design.
 
