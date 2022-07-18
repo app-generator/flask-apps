@@ -30,17 +30,16 @@ Pixel is a free, fully responsive and modern Bootstrap 4 UI Kit that will help y
 
 ![Flask Pixel UI Kit - Open-Source web app coded in Flask.](https://user-images.githubusercontent.com/51070104/179463475-5cf70053-6681-4968-9320-419bd64561fe.png)
 
-
 <br />
 
-## ✨ [Soft UI Design System Flask](https://appseed.us/product/soft-ui-design/flask/)
+## ✨ [Soft Design System Flask](https://appseed.us/product/soft-ui-design/flask/)
 
 **[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)** is a Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL) designed for those who like bold elements and beautiful websites. **Soft UI Design System Flask**  is a simple Flask starter provided by AppSeed with a modular codebase, database, authentication and deployment scripts
 
-- [Soft UI Design System Flask](https://appseed.us/product/soft-ui-design/flask/) - `product page`
-- [Soft UI Design System Flask](https://flask-soft-ui-free.appseed-srv1.com/) - `LIVE Demo`
+- [Soft Design System Flask](https://appseed.us/product/soft-ui-design/flask/) - `product page`
+- [Soft Design System Flask](https://flask-soft-ui-free.appseed-srv1.com/) - `LIVE Demo`
 
-![Soft UI Design System Flask - Starter provided by AppSeed.](https://user-images.githubusercontent.com/51070104/179467305-69e8fe2a-70ba-42ce-a028-d9f95c52556a.png)
+![Soft Design System Flask - Starter provided by AppSeed.](https://user-images.githubusercontent.com/51070104/179467305-69e8fe2a-70ba-42ce-a028-d9f95c52556a.png)
 
 <br /> 
 
