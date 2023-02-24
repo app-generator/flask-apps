@@ -4,6 +4,14 @@ Open-Source web apps built with automation tools, HTML parsing and boilerplated 
 
 <br />
 
+## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
+
+> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
+
+[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
+
+<br />
+
 ## What is **[Flask](https://appseed.us/apps/flask/)**
 
 **[Flask](https://appseed.us/apps/flask/)** is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself - read more about it on the [Flask official website](https://palletsprojects.com/p/flask/) or access the docs and start coding.
