@@ -10,14 +10,6 @@ Open-source web apps built with automation tools, HTML parsing, and boilerplate 
 
 <br />
 
-## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `65%Off`
-
-> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
- 
-[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
-
-<br />
-
 ## ✨ [Flask Material Kit](https://appseed.us/product/material-kit/flask/)
 
 Open-Source **Flask** starter coded on top of **Material Kit 2** (free version). For newcomers, Material Kit is a **Free Bootstrap 5 UI Kit** with a fresh, new design inspired by Google's material design. This simple Flask project can be used to code beautiful websites with a modern design.
