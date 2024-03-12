@@ -52,7 +52,7 @@ Open-Source **Flask** starter coded on top of **Material Kit 2** (free version).
 
 <br />
 
-## ✨ [Flask Pixel UI Kit](https://appseed.us/product/pixel-bootstrap/flask/)
+## [Flask Pixel UI Kit](https://appseed.us/product/pixel-bootstrap/flask/)
 
 Pixel is a free, fully responsive, and modern Bootstrap 4 UI Kit that will help you build creative and professional websites. Use our components and sections, switch some Sass variables to build and arrange pages to best suit your needs. Pixel Lite comes with 6 premium example pages that we created to show you the beautiful user interfaces that can be created.
 
@@ -73,7 +73,7 @@ Pixel is a free, fully responsive, and modern Bootstrap 4 UI Kit that will help 
 
 <br />
 
-## ✨ [Soft Design System Flask](https://appseed.us/product/soft-ui-design/flask/)
+## [Soft Design System Flask](https://appseed.us/product/soft-ui-design/flask/)
 
 **[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)** is a Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL) designed for those who like bold elements and beautiful websites. **Soft UI Design System Flask**  is a simple Flask starter provided by AppSeed with a modular codebase, database, authentication and deployment scripts
 
