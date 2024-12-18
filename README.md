@@ -2,11 +2,9 @@
 
 Open-source web apps built with automation tools, HTML parsing, and boilerplate code in [Flask](https://palletsprojects.com/p/flask/) - - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
 
-<br />
+> 👉 Build your starter with **[Django App Generator](https://app-generator.dev/tools/django-generator/)** and customize: `DB Tables`, `Auth`, `Async Tasks`, `Docker`, `CI/Cd Scripts`
 
-## [What is Flask](https://docs.appseed.us/content/what-is/flask/)
-
-**Flask** is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. 
+![Django App Generator - Select Design](https://github.com/user-attachments/assets/d94dd5bf-dc5e-46c5-a69f-997ec4b46209)
 
 <br />
 
