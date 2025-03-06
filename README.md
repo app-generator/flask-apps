@@ -27,7 +27,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-# [Flask AdminLTE](https://app-generator.dev/product/adminlte/flask/)
+## [Flask AdminLTE](https://app-generator.dev/product/adminlte/flask/)
 
 Open-source **Flask Starter with AdminLTE Design**, an open-source iconic `Bootstrap` design.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
@@ -46,7 +46,7 @@ The product is designed to deliver the best possible user experience with highly
  
 <br />
 
-# [Flask Material Dashboard](https://app-generator.dev/product/material-dashboard/flask/)
+## [Flask Material Dashboard](https://app-generator.dev/product/material-dashboard/flask/)
 
 Open-source **Flask Starter with Material Dashboard Design**, an open-source iconic `Bootstrap` design.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
