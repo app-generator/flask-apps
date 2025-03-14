@@ -1,6 +1,6 @@
 # [Flask Apps](https://app-generator.dev/admin-dashboards/flask/) 
 
-Open-source web apps built with automation tools, HTML parsing, and boilerplate code in [Flask](https://palletsprojects.com/p/flask/) - - Provided by [App Generator](https://app-generator.dev).
+Open-source web apps built with automation tools, HTML parsing, and boilerplate code in [Flask](https://palletsprojects.com/p/flask/) - - Provided by **[App Generator](https://app-generator.dev)**.
 
 <br />
 
