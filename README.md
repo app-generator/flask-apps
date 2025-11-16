@@ -4,6 +4,16 @@ Open-source web apps built with automation tools, HTML parsing, and boilerplate 
 
 <br />
 
+## `PROMO` Domains for sale
+
+- 👉 **[AppSeed.us - $49k](https://appseed.us/)**
+- 👉 **[Admin-Dashboards.com - $15k](https://www.admin-dashboards.com/)**
+- 👉 **[UI-Themes.com - $5k](https://ui-themes.com/)**
+- 👉 **[Simpllo.com - $10k](https://www.simpllo.com/)**
+- 👉 **[123SiteBuilder.net - $5k](https://www.123sitebuilder.net/)**
+
+<br />
+
 ## [Flask Datta Able](https://app-generator.dev/product/datta-able/flask/)
 
 Open-source **Flask** project crafted on top of **Datta Able Dashboard**, an open-source `Bootstrap` design.
